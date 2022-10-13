@@ -18,7 +18,7 @@ After renaming my repository the blog showed up on [kmorcinek.github.io])https:
 But I have problem with running
 
 ```zsh
-jekyll serve
+$ jekyll serve
 ```
 
 redirected me to:
@@ -27,7 +27,7 @@ redirected me to:
 The solution was to run
 
 ```zsh
-bundle add webrick
+$ bundle add webrick
 ```
 
 but I don't know where to run it :(
