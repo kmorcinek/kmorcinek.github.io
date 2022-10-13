@@ -24,6 +24,16 @@ jekyll serve
 redirected me to:
 [Jekyll serve fails on Ruby 3.0](https://github.com/jekyll/jekyll/issues/8523)
 
+The solution was to run
+
+```zsh
+bundle add webrick
+```
+
+but I don't know where to run it :(
+
+---
+
 Tryied `gem install --user-install webrick` , but it installed webrick for ruby 3.1.0 instead of 3.1.2, my comment: <https://github.com/jekyll/jekyll/issues/8523#issuecomment-1277059466>
 
 ### Other I have tried
