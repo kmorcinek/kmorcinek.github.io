@@ -49,6 +49,10 @@ $ gh add .zshrc
 $ gh commit -m 'version .zshrc'
 ```
 
+### Where to backup the code
+
+Above is the way how to store it in local bare repository. Of course it will be much better when you push your changes to some private repo. I suggest creating private repository on Github or Gitlab (it is free).
+
 ### Not show the untracked files
 (it conflicts with setting "*" as ignore everything in `.gitignore`)
 Then I set to not show the untracked files (there will be a lot of them)
