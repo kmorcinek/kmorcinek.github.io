@@ -42,6 +42,8 @@ alias gh='git --work-tree="${HOME}" --git-dir="${HOME}/.githome"'
 alias githome='git --work-tree="${HOME}" --git-dir="${HOME}/.githome"'
 ```
 
+(both are the same, I prefer shorter version, but maybe you prefer to be more explicit)
+
 I don't have to type the full command every time. I can just use:
 
 ```zsh
