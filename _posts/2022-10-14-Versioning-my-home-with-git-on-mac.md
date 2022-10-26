@@ -61,6 +61,8 @@ Above is the way how to store it in local bare repository. Of course it will be 
 $ gh config --local status.showUntrackedFiles no
 ```
 
+The `--local` switch tells to apply this settings only to this repo and not for the whole system.
+
 [//]: # "To test it I can create bare repo in other folder and have update alias for pointing to that repo (when I want to test it in ~ home dir). I can test the same in any other directory."
 
 [//]: # "I have tried to also make an alias for 'gitk' but failed on that."
