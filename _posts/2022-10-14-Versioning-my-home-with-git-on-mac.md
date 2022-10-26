@@ -27,7 +27,7 @@ But when we will create **bare** repository then we can remove that problem.
 How to init:
 
 ```zsh
-$ git init --bare ~/.git-home
+$ git init --bare ~/.githome
 $ touch README.md
 $ git --work-tree="${HOME}" --git-dir="${HOME}/.githome" add README.md
 $ git --work-tree="${HOME}" --git-dir="${HOME}/.githome" commit -m init
