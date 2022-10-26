@@ -67,9 +67,7 @@ The `--local` switch tells to apply this settings only to this repo and not for 
 
 [//]: # "I have tried to also make an alias for 'gitk' but failed on that."
 
-Thanks Jakub for showing me that 4 yours ago.
-
-[//]: # "(link???) to Jakub Linkedin or something"
+Thanks [Jakub Kozioł](https://github.com/pingwindyktator) for showing me that 4 yours ago.
 
 More robust explanation:
 [The Bare Repo Approach to Storing Home Directory Config Files (Dotfiles) in Git using Bash, Zsh, or Powershell](https://dev.to/bowmanjd/store-home-directory-config-files-dotfiles-in-git-using-bash-zsh-or-powershell-the-bare-repo-approach-35l3)
