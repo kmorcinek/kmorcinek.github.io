@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should version your system settings in git
+title: Why should you version your system settings in git
 ---
 
 I am versioning my local setting for many years. It is easy to setup as I described [Versioning my home with git on mac](https://kmorcinek.github.io/Versioning-my-home-with-git-on-mac/)
