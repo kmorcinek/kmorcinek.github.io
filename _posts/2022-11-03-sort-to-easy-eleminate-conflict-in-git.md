@@ -74,12 +74,14 @@ var allowedUsers = [
 ]
 ```
 
-Inspiration: https://github.com/deepsourcelabs/good-first-issue/blob/master/data/repositories.toml
-
 ## When it hit me
 
 Once we were with couple people debugging a problem for 1,5 day. When we found a root cause it was exactly that in one configuration file, one conflict was not correctly resolved.
 
 But it hits me a bit every time somebody in the team have to resolve small conflicts that otherwise could be avoided.
+
+## Inspiration
+
+[Adding new project to **Good First Issue**](https://goodfirstissue.dev/) where the file [repositories.toml](https://github.com/deepsourcelabs/good-first-issue/blob/master/data/repositories.toml) is sorted (and this is required by build process)
 
 [//]: # "one argument. maybe you want to know in which order something was added. But do you really need it?"
