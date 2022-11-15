@@ -23,7 +23,7 @@ Now when all of this happens without control (everything is just a text file) yo
 
 ## Some obvious things to version
 
-* ~/.gitignore
+* ~~\~/.gitignore~~ (but maybe you should version it as always empty)
 * ~/.gitconfig
 * setting for console/terminal (width, font, etc)
 * .zshrc (and any other *rc configuration files for the tools you use)
