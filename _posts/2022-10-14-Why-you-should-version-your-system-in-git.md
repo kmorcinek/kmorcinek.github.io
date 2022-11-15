@@ -19,7 +19,7 @@ Now when all of this happens without control (everything is just a text file) yo
 ## Other usefull scenarions
 
 * I tryied to install something (oh-my-zsh non standard plugin) that required more settings changes in the system. I failed to install it correctly. As it was not crucial for me I could either remove all the changes `git reset --hard`, or create z commit and then revert `git revert HEAD` (I prefer revert so I know what I was trying) without corruping my setup.
-* I am making a presentation about git and I don't want to use any git aliases and use full commands. I am just making one commit that removes all the aliases from `~/.gitignore`. Later I have that commit on a branch `remove-all-git-aliases` and can you it for next presentation. After the presentation I remove the commit from master.
+* I am making a presentation about git and I don't want to use any git aliases and use full commands. I am just making one commit that removes all the aliases from `~/.gitconfig`. Later I have that commit on a branch `remove-all-git-aliases` and can you it for next presentation. After the presentation I remove the commit from master.
 
 ## Some obvious things to version
 
