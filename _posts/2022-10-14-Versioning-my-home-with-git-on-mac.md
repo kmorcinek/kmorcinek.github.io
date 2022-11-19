@@ -4,7 +4,6 @@ title: Versioning my home with git on mac
 ---
 
 In Windows it is much simpler. You just start repo in your use directory.
-(Artur - to verify, maybe there is the same problem?)
 
 In Linux/Mac it is one problem. your home directory (`~/`) is the root for everything. When I create a folder:
 
