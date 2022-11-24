@@ -32,6 +32,10 @@ So far we was on one screen. When we want to move application between screens, t
 
 (just believe, hard to show on one screen)
 
+## Save your teams time
+
+I sometimes see somebody at work strugling with moving windows around and between screens. Mostly on calls when somebody have to share the screen. If you also have this problem you can send this video to them :)
+
 [//]: # "move on my screen"
 
 [//]: # "move to corners"
