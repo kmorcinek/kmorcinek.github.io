@@ -5,6 +5,8 @@ title: Rectangle to move applications between screens on MacOs
 
 MacOs lack tool for easily moving application between your screens (or share one screen between two application). On windows it was quite easy and intuitive with keyboard shortcuts **Win + Left Arrow** or **Win + Right Arrow**, etc.
 
+The solution is [Rectangle](https://rectangleapp.com/) - it is free, it is stable and I was quite a lot of people using it.
+
 ## Installing
 
 I am using [brew](https://brew.sh/) as a Package Manager and I also recomend it for everybody.
