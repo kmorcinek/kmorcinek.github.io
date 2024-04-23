@@ -21,7 +21,8 @@ Dzięki temu odblokujemy pracę frontendowców już pierwszego dnia sprintu. I z
 
 Tak wyglądają ustalone payloady:
 
-Create
+### Create
+
 POST `api/products/`
 
 ```json
@@ -29,6 +30,8 @@ POST `api/products/`
   "name": "iPhone 12"
 }
 ```
+
+### View list
 
 GET `api/products/`
 
